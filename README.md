@@ -99,7 +99,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 💚 Passionate Flutter Developer
 
 - GitHub: [@Sandip4083](https://github.com/Sandip4083)
-- Email: sandip.4083@gmail.com
+- Email: sandip88sah@gmail.com
 
 ---
 
