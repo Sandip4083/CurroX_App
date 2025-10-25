@@ -16,13 +16,6 @@ Convert between 160+ world currencies with real-time exchange rates!
 ## 🚀 Live Demo
 👉 **[Try CurroX Web App](https://sandip4083.github.io/CurroX_App/)**
 
-## 📱 Download APK
-📥 [Download Latest Release](https://github.com/Sandip4083/CurroX_App/releases)
-
-## 🎨 Screenshots
-
-*[Add your app screenshots here]*
-
 ## 🛠️ Technologies Used
 
 - **Flutter** - UI Framework
