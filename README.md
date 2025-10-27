@@ -3,6 +3,9 @@
 A beautiful, modern, and feature-rich **currency converter** built with Flutter.  
 Convert between 160+ world currencies with real-time exchange rates!
 
+<img width="500" height="500" alt="CurroX_logo1" src="https://github.com/user-attachments/assets/8d2a4b87-b73d-440e-aaf9-6d5652228ce8" />
+
+
 ## 🌟 Features
 
 ✨ **160+ Currencies** - Support for all major world currencies  
